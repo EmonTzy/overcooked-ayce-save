@@ -1,6 +1,6 @@
 # OC2 Save Batch Tool
 
-A Python tool that automates **decryption and encryption** of multiple Overcooked All You Can Eat save files.  
+A Python tool that automates **decryption and encryption** of multiple Overcooked All You Can Eat save files. It should also work for Overcooked! 2 save files.  
 This tool mainly focus to change the save file from 1 steam id account to another. 
 
 ---

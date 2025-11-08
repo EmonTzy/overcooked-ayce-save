@@ -24,9 +24,9 @@ This tool mainly focus to change the save file from 1 steam id account to anothe
   ```
 When prompted:
 
-Enter your SteamID64 for decryption
+Enter your SteamID64 for decryption (Owner of the save file)
 
-Enter your SteamID64 for encryption
+Enter your SteamID64 for encryption (Your Steam ID)
 
 The script will decrypt all .save files → create .json → re-encrypt them → remove .json files automatically.
 
